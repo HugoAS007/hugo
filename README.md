@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá! Eu sou Hugo Alexandre
+<h1 align="center">Olá!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
          width="30px">
 
