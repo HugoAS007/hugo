@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81ff83&height=120&section=header"/>
 
 <h1 align="center" > Olá pessoal, bem vindo ao meu mundo da programação!  
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
@@ -45,5 +45,8 @@
 ##
     
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg) 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81ff83&height=120&section=footer"/>
+<br>
 
   
