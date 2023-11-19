@@ -1,6 +1,6 @@
 
 
-<h1 align="center" > Olá pessoal, bem vindo ao meu 
+<h1 align="center" > Olá pessoal, bem vindo ao meu mundo da programação!  
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
          width="30px">
 
